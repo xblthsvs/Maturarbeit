@@ -1,0 +1,7 @@
+Arbeitsjournal Maturarbeit
+
+27.02.2025: Besprechung, Grobkonzept ausformuliert
+02.04.2025: Recherche zu trainingsdaten, Notizen unter Maturarbeit/Training Data/
+            Vertrag ausgefüllt
+            git repo erstellt
+            Arbeitsjournal erstellt
