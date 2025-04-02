@@ -1,0 +1,30 @@
+﻿Grundkonzept:
+Wie gut ist diese trendige Technologie im Vergleich mit alten bestehenden Methoden? Untersuchen wir das in dieser sehr spezifischen Anwendung.
+
+(Netzwerk in frequency domain?)
+
+Algorithmen zur Erkennung der Tonhöhe vergleichen:
+1. Algorithmus in frequency domain
+2. Algroithmus in time domain
+3. Algorithmus zur Polyphonischen Tonerkennung
+
+Edit:
+Vergleich mit CREPE (CNN in time domain)
+Vergleich mit YIN (time domain)
+Vergleich mit HPS (frequency domain, fokus auf Musikinstrumente weil braucht Harmonien)
+
+Titel:
+- Vergleich der Leistung von herkömmlichen Algorithmen mit der eines neuronalen Netzwerks bei der digitalen Tonerkennung
+- Entwicklung eines neuronalen Netwerks zur digitalen Tonerkennung
+- Tonerkennung mit einem neuronalen Netzwerk im vergleich mit herkömmlichen Methoden
+
+Alternativ:
+- Tonerkennung mit neuronalen Netwerken basierend auf Zeitbereich verglichen mit Frequenzbereich
+
+Leitfragen:
+- Wie entwickle ich ein neuronales Netwerk?
+- Wie gut funktioniert ein neuronales Netwerk im vergleich mit herkömmlichen Algorithmen?
+- Beste Methode für polyphonische Tonerkennung?
+- Mögliche Implementierung?
+- Ist die Tonerkennung mit einem neuronalen Netzwerk im Zeit- oder Frequenzbereich besser?
+	—> These: Zwar ist für Frequenzbereich aufwendiger (FFT zuerst nötig), aber lässt sich besser auf Spektrogram trainieren

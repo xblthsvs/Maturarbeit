@@ -1,0 +1,11 @@
+RWC Music Database https://staff.aist.go.jp/m.goto/RWC-MDB/:
+    - How to obtain??\
+	- Lot of data with corresponding MIDI :)
+
+MedleyDB https://medleydb.weebly.com/:
+f0 Easy to obtain
+	- f0 Annotations
+	- Monophonic and Polyphonic sources
+	- docs: https://medleydb.readthedocs.io/en/latest/index.html
+	- Separate stems --> not only Vocal, also different instrumental parts
+DALI
