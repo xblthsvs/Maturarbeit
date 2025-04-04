@@ -10,3 +10,6 @@ Arbeitsjournal Maturarbeit
 03.04.2025: Mit MAESTRO und librosa experimentiert, siehe /Training Data/MAESTRO testing script.py
             Konnte ohne weiteres dateien mit librosa öffnen, allerdings nicht plotten
                 --> Problem mit matplotlib? mit pycharm? mit librosa?
+04.04.2025: Plot Problem gelöst (plt.show() vergessen)
+            MIDI dateien importieren
+                --> Ziel: MIDI Ton anhand von sample/tick finden, um mit audio vergleichen zu können
